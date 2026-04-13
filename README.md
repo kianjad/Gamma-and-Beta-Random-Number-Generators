@@ -1,6 +1,6 @@
 # Gamma and Beta Random Number Generators
 **Jayden Gould, Harrison Funk, Elijah DiFuria, Kian Jadbabaei**  
-*STAT 194CS — Monte Carlo Methods | Winter 2026*
+*PSTAT 194CS - Monte Carlo Methods | Winter 2026*
 
 ---
 
